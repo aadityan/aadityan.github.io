@@ -28,7 +28,8 @@ twitter_username: jekyllrb
 github_username:  aadityan
 
 # Build settings
-theme: minima
+# Don't need the minima theme as I'm using a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
