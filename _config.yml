@@ -22,7 +22,7 @@ title: Life, in development
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog! This website will hold all the craziness in my head.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aadityan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  aadityan
@@ -52,3 +52,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Fields that minima uses that I'm including in my version
+author: Aaditya Nanduri
+
+# New fields not including in minima theme. These are custom fields
+copyright: Aaditya Nanduri
